@@ -2,5 +2,5 @@
 name:
    first: Changpeng
    last: Li
-email: changpeng.li@nyu.edu
+email: cl2545@nyu.edu
 leaderboard: Changpeng
