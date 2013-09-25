@@ -671,7 +671,7 @@ Example:	Tussogest 117	guess=drug	gold=drug	confidence=0.9992786858457542
 Example:	Tylenol Cold and Flu No Drowsiness Powder 124	guess=drug	gold=drug	confidence=0.9999790319099303
 Example:	Tylenol Cold Multi-Symptom 58	guess=drug	gold=drug	confidence=0.9997306511596206
 Example:	Tylenol Sinus Medication Regular Strength Caplets	guess=drug	gold=drug	confidence=0.9999998980112476
-Example:	UAA	guess=drug	gold=drug	confidence=0.3683051307733015
+Example:	UAA	guess=drug	gold=drug	confidence=0.9970498339525169
 Example:	Ulobetasol	guess=drug	gold=drug	confidence=0.9994565775333981
 Example:	ULTRAbrom PD	guess=drug	gold=drug	confidence=0.9875658566888216
 Example:	Uni-Multihist D 23	guess=drug	gold=drug	confidence=0.9889729606761115
@@ -701,7 +701,7 @@ Example:	Vumon	guess=place	gold=drug	confidence=0.5750623231609792
 Example:	Wintrocin	guess=drug	gold=drug	confidence=0.9904698016452507
 Example:	Xerac BP 5	guess=drug	gold=drug	confidence=0.9806995269730351
 Example:	Xylocaine-MPF	guess=drug	gold=drug	confidence=0.9999781260438706
-Example:	Yohimar	guess=drug	gold=drug	confidence=0.33581706727014216
+Example:	Yohimar	guess=drug	gold=drug	confidence=0.998557177288435
 Example:	Z-Plus	guess=drug	gold=drug	confidence=0.9877473287837881
 Example:	Zanosar	guess=drug	gold=drug	confidence=0.8558112763829456
 Example:	Zephrex-LA 142	guess=drug	gold=drug	confidence=0.9999371943664221
@@ -1334,11 +1334,11 @@ Example:	Epping	guess=place	gold=place	confidence=0.6303942368652901
 Example:	Erkrath	guess=place	gold=place	confidence=0.599963784274768
 Example:	Eversley	guess=place	gold=place	confidence=0.9945978907832179
 Example:	Evesham	guess=place	gold=place	confidence=0.9957285071547571
-Example:	Exeter	guess=movie	gold=place	confidence=0.37144390530340843
+Example:	Exeter	guess=movie	gold=place	confidence=0.7898025427537771
 Example:	Eyemouth	guess=place	gold=place	confidence=0.9673423062301904
 Example:	Fajardo	guess=movie	gold=place	confidence=0.8614295233365071
 Example:	Faversham	guess=place	gold=place	confidence=0.9974653636729267
-Example:	Faygate	guess=drug	gold=place	confidence=0.35826453793222884
+Example:	Faygate	guess=drug	gold=place	confidence=0.9983944851938307
 Example:	Five Dock	guess=movie	gold=place	confidence=0.9881549860010059
 Example:	Flaxton	guess=place	gold=place	confidence=0.910830456934466
 Example:	Florence Court	guess=person	gold=place	confidence=0.8972930699251414
@@ -1829,7 +1829,7 @@ Example:	Das Schlosshotel	guess=movie	gold=movie	confidence=0.9850993504024769
 Example:	Daughters of the Sun	guess=movie	gold=movie	confidence=0.9999930566350671
 Example:	Day After Day	guess=movie	gold=movie	confidence=0.9985895250860112
 Example:	Daybreak	guess=movie	gold=movie	confidence=0.8555265568532243
-Example:	Dayereh	guess=drug	gold=movie	confidence=0.3579981408090917
+Example:	Dayereh	guess=drug	gold=movie	confidence=0.9999911192374111
 Example:	De Geheime dienst	guess=movie	gold=movie	confidence=0.9964117028960063
 Example:	De Stilte...	guess=movie	gold=movie	confidence=0.9897075294630123
 Example:	De Ware Lodewijk - de ontknoping	guess=movie	gold=movie	confidence=0.9977898062878572
@@ -2246,7 +2246,7 @@ Example:	Rat uzivo	guess=movie	gold=movie	confidence=0.9828678015233765
 Example:	Real Rakeovers	guess=movie	gold=movie	confidence=0.9536177458148637
 Example:	Real Things	guess=movie	gold=movie	confidence=0.9843311586169339
 Example:	Rebus: The Hanging Garden	guess=movie	gold=movie	confidence=0.9999817037463574
-Example:	Rejseholdet	guess=drug	gold=movie	confidence=0.36642244308424055
+Example:	Rejseholdet	guess=drug	gold=movie	confidence=0.9579670981815186
 Example:	Ren jian si yue tian	guess=movie	gold=movie	confidence=0.9999878247370771
 Example:	Requiem for a Dream	guess=movie	gold=movie	confidence=0.9989864170969354
 Example:	Restless	guess=movie	gold=movie	confidence=0.8792309055286134
@@ -2278,7 +2278,7 @@ Example:	Santana: Supernatural Live	guess=movie	gold=movie	confidence=0.99937154
 Example:	Satan's School for Girls	guess=movie	gold=movie	confidence=0.9999712374022973
 Example:	Savage Garden: Superstars and Cannonballs: Live and on Tour in Australia	guess=movie	gold=movie	confidence=0.9999999999960707
 Example:	Say You Love Satan	guess=movie	gold=movie	confidence=0.8734660124427062
-Example:	Sciography	guess=drug	gold=movie	confidence=0.36516756900013303
+Example:	Sciography	guess=drug	gold=movie	confidence=0.8807013452648793
 Example:	Scrappers	guess=movie	gold=movie	confidence=0.9590962529622755
 Example:	Sehnsucht nach Jack	guess=movie	gold=movie	confidence=0.9989573727380634
 Example:	Sei forte, Maestro	guess=movie	gold=movie	confidence=0.9994378100028773
@@ -2719,7 +2719,7 @@ Example:	Nippon Telegraph and Telephone Corp.	guess=company	gold=company	confide
 Example:	Noble Affiliates Inc.	guess=company	gold=company	confidence=0.9999824081891654
 Example:	Northrop Grumman Corporation	guess=company	gold=company	confidence=0.9999958155007526
 Example:	Northwest Natural Gas Company	guess=company	gold=company	confidence=0.9975404018736745
-Example:	Novartis	guess=drug	gold=company	confidence=0.3660459354764778
+Example:	Novartis	guess=drug	gold=company	confidence=0.4567578693071457
 Example:	Nuveen Arizona Premium Income Municipal Fund	guess=company	gold=company	confidence=0.9999999747693399
 Example:	Nuveen California Performance Municipal Fund	guess=company	gold=company	confidence=0.9999390729620122
 Example:	Nuveen California Select Quality Municipal Fund	guess=company	gold=company	confidence=0.9999949150841099
@@ -2794,7 +2794,7 @@ Example:	Telebras HOLDRs	guess=company	gold=company	confidence=0.823539401312575
 Example:	Telef�nica del Per� SA	guess=company	gold=company	confidence=0.9948479591872714
 Example:	Telemig Celular Participa��es S.A.	guess=company	gold=company	confidence=0.9999975389415411
 Example:	Templeton Emerging Markets Appreciation Fund, Inc.	guess=company	gold=company	confidence=0.9999999916850112
-Example:	Tennessee Valley Auth	guess=company	gold=company	confidence=0.2972620480044845
+Example:	Tennessee Valley Auth	guess=company	gold=company	confidence=1.0
 Example:	Terra Industries Inc.	guess=company	gold=company	confidence=0.9999999769413646
 Example:	Terra Nitrogen Co. LP	guess=company	gold=company	confidence=0.9486809480193575
 Example:	Tesoro Petroleum Corporation.	guess=company	gold=company	confidence=0.9999999972876011
@@ -2831,7 +2831,7 @@ Example:	United Technologies Corporation.	guess=company	gold=company	confidence=
 Example:	Uni�o de Bancos Brasileiros S.A (Unibanco)	guess=company	gold=company	confidence=0.9569052021167445
 Example:	UnumProvident Corporation	guess=company	gold=company	confidence=0.9998811946345991
 Example:	Urstadt Biddle Properties Inc.	guess=company	gold=company	confidence=0.9999999939293382
-Example:	Usx Marathon Lg-Tm	guess=movie	gold=company	confidence=0.3004797425295899
+Example:	Usx Marathon Lg-Tm	guess=company	gold=company	confidence=0.46831051816199065
 Example:	Van Kampen Bond Fund	guess=company	gold=company	confidence=0.528532468889019
 Example:	Van Kampen High Income Trust II	guess=company	gold=company	confidence=0.9999418811779248
 Example:	Van Kampen Senior Income Trust	guess=company	gold=company	confidence=0.9999927413242322
